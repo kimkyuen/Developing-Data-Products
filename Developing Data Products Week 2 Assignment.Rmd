@@ -1,6 +1,8 @@
 ---
 title: "Developing Data Products Week 2 Assignment"
 output: html_document
+name: Kimberly Yuen
+date: October 25 2023
 ---
 
 ## Introduction
